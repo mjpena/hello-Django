@@ -1,0 +1,12 @@
+li a{
+    font-family: sans-serif; 
+    font-weight: 200;
+    text-align: center;
+    color: white;
+}
+
+body{
+    background: white url("images/coolKid.gif") no-repeat left center;
+    background-color: pink;
+}
+
